@@ -1,2 +1,1 @@
-# dice_game
-A dice game!
+# A dice game!
