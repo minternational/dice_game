@@ -1,0 +1,41 @@
+* {
+  margin: auto;
+  text-align: center;
+}
+
+body {
+  background-color: #393E46;
+  font-family: Indie Flower;
+}
+
+h1 {
+  font-family: Lobster;
+  font-size: 8rem;
+  color: #4ECCA3;
+  text-shadow: 5px 0 #232931;
+  padding: 3% 5%;
+  font-weight: 900;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+}
+
+.row {
+  padding: 0 30%;
+}
+
+footer {
+  color: #fff;
+  padding: 5% 12%;
+}
+
+.dice_img {
+  width: 60%;
+  padding-top: 10%;
+}
+
+.btn {
+  text-align: center;
+}
